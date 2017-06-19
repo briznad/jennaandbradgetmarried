@@ -13033,7 +13033,7 @@ body {
     background-color: #ffeadb
 }
 #outerWrapper {
-    background-image: url("/assets/images/all+flowers+-+center+blocked+off+-+2400x1500.png");
+    background-image: url("/assets/images/flowers-sub-pages-2400x1500.png");
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -13045,7 +13045,7 @@ body {
     z-index: 1
 }
 .collection-type-template-page #outerWrapper {
-    background-image: url("/assets/images/all+flowers+-+homepage+2+-+2400x1500.png");
+    background-image: url("/assets/images/flowers-homepage-2400x1500.png");
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
@@ -15041,7 +15041,7 @@ body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-busines
     }
     body:not(.collection-type-template-page).mobile-background-image #outerWrapper,
     body:not(.collection-type-template-page).collection-layout-default.info-page-layout-poster.mobile-background-image #outerWrapper {
-        background-image: url("/assets/images/all+flowers+-+center+blocked+off+-+2400x1500.png");
+        background-image: url("/assets/images/flowers-sub-pages-2400x1500.png");
         background-position: center center;
         background-size: cover;
         background-attachment: fixed;
@@ -15285,7 +15285,7 @@ body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-busines
     font-style: normal
 }
 .bg-image {
-    background-image: url("/assets/images/all+flowers+-+homepage+2+-+2400x1500.png");
+    background-image: url("/assets/images/flowers-homepage-2400x1500.png");
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
@@ -15435,7 +15435,7 @@ body:not(.collection-type-template-page).sqs-style-mode.info-page-layout-busines
     font-style: normal
 }
 .page-bg-image {
-    background-image: url("/assets/images/all+flowers+-+center+blocked+off+-+2400x1500.png");
+    background-image: url("/assets/images/flowers-sub-pages-2400x1500.png");
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
